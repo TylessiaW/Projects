@@ -1,2 +1,2 @@
-# Projects
-Where all my work goes finished or unfinished.
+# Portfolio
+Where you can see all my projects in one place.
